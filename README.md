@@ -17,4 +17,3 @@ This project explores the relationship between socioeconomic indicators, school 
 1. Clone the repo: `git clone [Your Repo Link]`
 2. Install dependencies: `pip install pandas sqlalchemy ipython-sql`
 3. Open `Chicago_Data_Analysis.ipynb` in Jupyter or VS Code.
-4.
