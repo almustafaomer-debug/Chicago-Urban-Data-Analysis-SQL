@@ -14,6 +14,6 @@ This project explores the relationship between socioeconomic indicators, school 
 * Mapped schools that are "beating the odds" in high-hardship neighborhoods.
 
 ## How to Run
-1. Clone the repo: `git clone [Your Repo Link]`
+1. Clone the repo: `(https://github.com/almustafaomer-debug/Chicago-Urban-Data-Analysis-SQL)`
 2. Install dependencies: `pip install pandas sqlalchemy ipython-sql`
 3. Open `Chicago_Data_Analysis.ipynb` in Jupyter or VS Code.
