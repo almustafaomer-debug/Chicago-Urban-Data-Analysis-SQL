@@ -1,7 +1,7 @@
 # Chicago Social & Educational Data Analysis (SQL)
 
 ## Project Overview
-This project explores the relationship between socioeconomic indicators, school performance, and crime rates in Chicago. By integrating three distinct datasets, I used SQL to uncover how a community’s hardship index correlates with educational outcomes and public safety.
+This project explores the relationship between socioeconomic indicators, school performance, and crime rates in Chicago. By integrating three distinct datasets, I used SQL to uncover how a community's environment influences health, education, and public safety.
 
 ## Technical Skills Demonstrated
 * **Database Management:** Loading raw CSV data into a **SQLite** database using Python and the `sql` magic extension.
@@ -14,6 +14,6 @@ This project explores the relationship between socioeconomic indicators, school 
 * Mapped schools that are "beating the odds" in high-hardship neighborhoods.
 
 ## How to Run
-1. Clone the repo: (https://github.com/almustafaomer-debug/Chicago-Urban-Data-Analysis-SQL)
+1. Clone the repo: [GitHub repository](https://github.com/almustafaomer-debug/Chicago-Urban-Data-Analysis-SQL)
 2. Install dependencies: `pip install pandas sqlalchemy ipython-sql`
 3. Open `Chicago_Data_Analysis.ipynb` in Jupyter or VS Code.
